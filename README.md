@@ -6,6 +6,8 @@ EDA with Python
 
 -[Project overview](#project-overview)
 
+-[Objectives](#objectives)
+
 -[Tool used](#tool-used)
 
 -[Approaches used](#approaches-used)
